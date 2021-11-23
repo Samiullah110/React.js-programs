@@ -1,0 +1,71 @@
+* {
+    box-sizing: border-box;
+    background: #23252C;
+}
+.Image{
+    
+}
+.LinkednButton{
+ background: lightseagreen;
+ font-size: 20px;
+ border-radius: 7px
+    
+}
+.Buttons{
+    background-color: white;
+    margin-right: 18px;
+    font-size: 20px;
+    border-radius: 7px
+    
+}
+h1{
+    margin-bottom: 0%;
+}
+h3{
+    color: white;
+}
+h4{
+    color: orange;
+}
+.nav-items{
+    text-align: center;
+    padding: 5px;
+    
+    
+    }
+    .About-section{
+        color: white;
+        padding-left:10px;
+         font-family:'Times New Roman', Times, serif;
+    }
+
+p{
+    margin-top: 0%;
+}
+.fa {
+  text-decoration: none;
+}
+.fa-linkedin {
+  background: #3B5998;
+  color: white;
+  padding: 8px;
+  margin-right: 20px;
+  border-radius: 5px; 
+}
+
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+  padding: 8px;
+  border-radius: 5px;
+  
+}
+.Icons{
+    background-color:black;
+    padding: 10px 10px;
+}
+Footer>a{
+    margin-left: 38px;
+    color: darkgray
+}
